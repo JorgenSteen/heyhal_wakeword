@@ -2,8 +2,6 @@
     "type": "micro",
     "wake_word": "Hey Hal",
     "author": "John",
-    "website": "https://github.com/JorgenSteen/heyhal_wakeword",
-    "description": "Custom 'Hey Hal' wake word inspired by HAL 9000 from 2001: A Space Odyssey",
     "model": "hey_hal.tflite",
     "trained_languages": ["en"],
     "version": 2,
